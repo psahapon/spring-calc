@@ -65,4 +65,12 @@ public class Calculation {
     public void setOperand1(Double operand1) {
         this.operand1 = operand1;
     }
+
+    public Double getOperand2() {
+        return operand2;
+    }
+
+    public void setOperand2(Double operand2) {
+        this.operand2 = operand2;
+    }
 }
